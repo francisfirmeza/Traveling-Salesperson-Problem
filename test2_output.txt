@@ -1,0 +1,1 @@
+Optimal Tour Cost = [14, <1, 2, 3>]

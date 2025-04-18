@@ -1,0 +1,1 @@
+Optimal Tour Cost = [30, <1, 3, 5, 2, 4>]

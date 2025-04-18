@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\graph.h(33,47): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\graph.h(55,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\Tsp.h(25,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\Tsp.h(26,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\Tsp.h(32,35): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  TSP.cpp
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\graph.h(33,47): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'TSP.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\graph.h(55,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TSP.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\Tsp.h(25,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'TSP.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\Tsp.h(26,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'TSP.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\Tsp.h(32,35): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'TSP.cpp')
+  
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\TSP.cpp(22,33): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\TSP.cpp(22,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\TSP.cpp(33,32): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\TSP.cpp(33,32): warning C4267:         with
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\TSP.cpp(33,32): warning C4267:         [
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\TSP.cpp(33,32): warning C4267:             _Ty=int
+C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\CS320P03Firmeza\TSP.cpp(33,32): warning C4267:         ]
+  Generating Code...
+  CS320P03Firmeza.vcxproj -> C:\Users\franc\OneDrive\Desktop\CS320P03Firmeza\x64\Debug\CS320P03Firmeza.exe
